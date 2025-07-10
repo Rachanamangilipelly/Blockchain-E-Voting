@@ -71,8 +71,8 @@ Once everything is set up, here’s how it works:
 
 ## 🔗 **Project Links**:
 
-- [LinkedIn](https://www.linkedin.com/in/krishnanand-pathak/)  
-- [GitHub](https://github.com/Krishna-pathak1535)  
+- [LinkedIn](https://www.linkedin.com/in/rachanamangilipelly)  
+- [GitHub](https://github.com/Rachanamangilipelly)  
 - [Project Demo (if applicable)](https://github.com/Krishna-pathak1535/Blockchain-E-Voting)
 
 ---
@@ -127,11 +127,5 @@ A special thanks to the following:
 ## 🌟 **Final Thoughts**:
 
 Building **Blockchain E-Voting** has been an amazing experience, blending **blockchain**, **cryptography**, and **machine learning** into one seamless system. I’m incredibly proud of what we’ve built and excited to see how such technologies can improve the **democratic process**. If you're interested in exploring this further or discussing the technology behind it, feel free to **connect** or **reach out**!
-
----
-
-### **📬 Contact Information**:
-- **LinkedIn**: [Krishna Nand Pathak](https://www.linkedin.com/in/krishnanand-pathak/)
-- **GitHub**: [Krishna-pathak1535](https://github.com/Krishna-pathak1535)
 
 ---
