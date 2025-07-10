@@ -73,7 +73,7 @@ Once everything is set up, here’s how it works:
 
 - [LinkedIn](https://www.linkedin.com/in/rachanamangilipelly)  
 - [GitHub](https://github.com/Rachanamangilipelly)  
-- [Project Demo (if applicable)](https://github.com/Krishna-pathak1535/Blockchain-E-Voting)
+- [Project Demo (if applicable)](https://github.com/Rachanamangilipelly/Blockchain-E-Voting.git)
 
 ---
 
